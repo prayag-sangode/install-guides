@@ -11,3 +11,7 @@ curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker
 ## kubectl Installation on Linux
 
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/kubectl.sh | sudo bash 
+
+## openshift crc installation on Linux
+
+curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/openshift-crc.sh | sudo bash
