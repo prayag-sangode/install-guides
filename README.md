@@ -17,4 +17,5 @@ curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/kubect
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/openshift-crc.sh | sudo bash
 
 `crc setup`
+
 `crc start -p ./pull-secret.txt`
