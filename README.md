@@ -6,4 +6,4 @@ curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker
 
 ## docker-compose Installation on Linux
 
-curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker-install.sh | sudo bash 
+curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker-compose.sh | sudo bash 
