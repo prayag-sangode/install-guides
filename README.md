@@ -4,6 +4,10 @@
 
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker-install.sh | sudo bash 
 
+## Docker Instllation on RockyLinux 8
+
+curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker-rocky8.sh | sudo bash
+
 ## docker-compose Installation on Linux
 
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker-compose.sh | sudo bash 
