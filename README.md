@@ -15,6 +15,8 @@ curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/kubect
 ## AWS CLI installation on Linux
 
 curl https://github.com/prayag-sangode/install-guides/blob/main/aws-install.sh | sudo bash
+`aws configure`
+`Enter AWS Secret Key & Secret`
 
 ## openshift crc installation on Linux
 
