@@ -18,7 +18,13 @@ curl https://github.com/prayag-sangode/install-guides/blob/main/aws-install.sh |
 
 `aws configure`
 
-`Enter AWS Secret Key & Secret`
+`AWS Access Key ID [None]: 
+
+AWS Secret Access Key [None]: 
+
+Default region name [None]: 
+
+Default output format [None]: json`
 
 ## gcloud CLI installation on Linux
 
