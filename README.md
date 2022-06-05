@@ -20,6 +20,8 @@ curl https://github.com/prayag-sangode/install-guides/blob/main/aws-install.sh |
 
 `Enter AWS Secret Key & Secret`
 
+## gcloud CLI installation on Linux
+
 `curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/gcloud.sh | sudo bash`
 
 `gcloud init`
