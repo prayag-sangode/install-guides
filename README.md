@@ -34,7 +34,7 @@ Default output format [None]: json
 
 `curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/gcloud.sh | sudo bash`
 
-`gcloud init`
+`gcloud init --console-only`
 
 ## openshift crc installation on Linux
 
