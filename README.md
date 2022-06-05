@@ -20,6 +20,10 @@ curl https://github.com/prayag-sangode/install-guides/blob/main/aws-install.sh |
 
 `Enter AWS Secret Key & Secret`
 
+`curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/gcloud.sh | sudo bash`
+
+`gcloud init`
+
 ## openshift crc installation on Linux
 
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/openshift-crc.sh | sudo bash
