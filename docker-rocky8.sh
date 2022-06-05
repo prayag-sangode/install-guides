@@ -6,4 +6,5 @@ sudo dnf config-manager --add-repo=https://download.docker.com/linux/centos/dock
 sudo dnf install -y docker-ce
 sudo usermod -aG docker $USER
 which docker
+sudo systemctl enable --now docker
 docker ps
