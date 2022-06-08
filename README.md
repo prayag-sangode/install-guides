@@ -16,7 +16,7 @@ curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker
 
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/kubectl.sh | sudo bash 
 
-## AWS CLI installation on Linux
+## aws cli installation on Linux
 
 curl https://github.com/prayag-sangode/install-guides/blob/main/aws-install.sh | sudo bash
 
