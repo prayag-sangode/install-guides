@@ -1,10 +1,10 @@
 # Installation guide 
 
-## Docker Installation on Linux
+## docker Installation on Linux
 
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker-install.sh | sudo bash 
 
-## Docker Installation on RockyLinux 8
+## docker Installation on RockyLinux 8
 
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/docker-rocky8.sh | sudo bash
 
