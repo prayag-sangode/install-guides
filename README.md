@@ -36,6 +36,12 @@ Default output format [None]: json
 
 `gcloud init --console-only`
 
+## az cli installation on Linux
+
+`curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/az-cli.sh | sudo bash`
+
+`az login`
+
 ## openshift crc installation on Linux
 
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/openshift-crc.sh | sudo bash
