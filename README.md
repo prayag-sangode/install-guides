@@ -49,3 +49,7 @@ curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/opensh
 `crc setup`
 
 `crc start -p ./pull-secret.txt`
+
+## LAMP installation on Linux
+
+curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/lamp.sh | sudo bash
