@@ -53,3 +53,6 @@ curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/opensh
 ## LAMP installation on Linux
 
 curl https://raw.githubusercontent.com/prayag-sangode/install-guides/main/lamp.sh | sudo bash
+
+## helm installation on Linux
+`curl https://github.com/prayag-sangode/install-guides/blob/main/helm.sh | sudo bash`
