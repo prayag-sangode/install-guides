@@ -7,6 +7,8 @@ which gcloud
 gcloud auth application-default login
 gcloud components install kubectl
 which kubectl
+export PROJECT_ID=""
+gcloud config set project $PROJECT_ID
 export VERSION=1.14.0
 gsutil cp gs://anthos-baremetal-release/bmctl/$VERSION/linux-amd64/bmctl .
 chmod +x ./bmctl
